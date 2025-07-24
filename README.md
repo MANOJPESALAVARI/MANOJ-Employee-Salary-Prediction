@@ -6,12 +6,11 @@
 ### Employee Salary Prediction System
 
 
-![Screenshot]("C:\Users\pesal\Downloads\Employee_Salary_Prediction-main\Employee_Salary_Prediction-main\screenshot1.png")
-
+<img width="1920" height="991" alt="Image" src="https://github.com/user-attachments/assets/742b531f-54bd-470c-b914-6f31a40402ca" />
 # Output
 
 
-![Screenshot](C:\Users\pesal\Downloads\Employee_Salary_Prediction-main\Employee_Salary_Prediction-main\screenshot2.png)
+<img width="1920" height="985" alt="Image" src="https://github.com/user-attachments/assets/e42dc04d-8576-4f91-93dc-76490b28c6cb" />
 
 
 ## 🎓 Internship Details
@@ -26,7 +25,7 @@
   
 * **Domain**: Artificial Intelligence & Machine Learning
   
-* **Intern**: J Nandini
+* **Intern**: PESALAVARI VENKATA SAI MANOJ
 
 
 # 🔗 Project Links
